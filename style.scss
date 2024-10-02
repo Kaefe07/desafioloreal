@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #efeef3;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+      
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    width: 70vw;
+    justify-content: space-around;
+    text-align: center;
+}
